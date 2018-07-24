@@ -1,0 +1,14 @@
+guns:
+  mp5:
+    displayName: 'MP5'
+    id: 3
+    durability: 10
+    prices:
+      36h: 100
+      7d: 300
+      14d: 500
+      30d: 800
+    location:
+      x: 19.5
+      y: 84.0
+      z: 58.5

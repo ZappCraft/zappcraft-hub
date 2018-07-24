@@ -1,0 +1,5 @@
+name: Hub
+version: ${project.version}
+main: ru.mrbrikster.zappcraft.Main
+authors: [MrBrikster]
+depend: [HolographicDisplays]
